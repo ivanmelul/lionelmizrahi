@@ -138,7 +138,7 @@ if(!empty($_GET["path"])){
 						<!--<a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>-->
 					</div>
 					<div class="img">
-						<a href="https://www.facebook.com/Mimpikids" target="_BLANK"><img src="image/followus.jpg" /></a>
+						<a href="https://www.facebook.com/Lionel Mizrahikids" target="_BLANK"><img src="image/followus.jpg" /></a>
 					</div>
 					<div class="separador-triangulos"></div>
 					<div class="separador-corazon"></div>
@@ -158,7 +158,7 @@ if(!empty($_GET["path"])){
 					<div class="faq_top"></div>
 					<div class="consulta">
 						<h3>Detalle de compra</h3>
-						<p>Para comprar por mayor Ud. puede acercarse a nuestro showroom de la calle Neuquén 2788 (Flores). Tel.: 46376203 o 46114762. o bien realizar el pedido a través de nuestro sitio <a href="http://www.mimpi.com.ar" target="_blank">www.mimpi.com.ar</a></p>
+						<p>Para comprar por mayor Ud. puede acercarse a nuestro showroom de la calle Neuquén 2788 (Flores). Tel.: 46376203 o 46114762. o bien realizar el pedido a través de nuestro sitio <a href="http://www.lionelmizrahi.com.ar" target="_blank">www.lionelmizrahi.com.ar</a></p>
 						<p>COMPRA MINIMA $4000. A partir de $8000 desc. 20%</p>
 					</div>
 					<div class="consulta">
@@ -172,7 +172,7 @@ if(!empty($_GET["path"])){
 					<div class="consulta">
 						<h3>INFO Y VENTAS</h3>
 						<p>(011) 4611-4762 o 4637-6203</p>
-						<p>ventas@mimpi.com.ar</p>
+						<p>ventas@lionelmizrahi.com.ar</p>
 					</div>
 					<div class="faq_bottom"></div>
 					<div class="talles">
@@ -221,7 +221,7 @@ if(!empty($_GET["path"])){
 						<!--<a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>-->
 					<!--</div>
 					<div class="img">
-						<a href="https://www.facebook.com/Mimpikids" target="_BLANK"><img src="image/followus.jpg" /></a>
+						<a href="https://www.facebook.com/Lionel Mizrahikids" target="_BLANK"><img src="image/followus.jpg" /></a>
 					</div>
 					<div class="separador-triangulos"></div>
 					<div class="separador-corazon"></div>
@@ -243,8 +243,8 @@ if(!empty($_GET["path"])){
 			</div>
 			<div id="quienes-somos">
 				<div class="texto left">
-					<p>Mimpi, es una empresa familiar con una trayectoria de más de 30 años dedicada a la indumentaria para chicos. Fue creada con el desafío de diseñar ropa divertida para chicos de 0 a 12 años.</p>
-					<p>La integridad de la oferta, la coordinación entre artículos, el correcto equilibrio entre el contenido creativo y la practicidad, acompañado de un precio competitivo son las características principales de Mimpi.</p>
+					<p>Lionel Mizrahi, es una empresa familiar con una trayectoria de más de 30 años dedicada a la indumentaria para chicos. Fue creada con el desafío de diseñar ropa divertida para chicos de 0 a 12 años.</p>
+					<p>La integridad de la oferta, la coordinación entre artículos, el correcto equilibrio entre el contenido creativo y la practicidad, acompañado de un precio competitivo son las características principales de Lionel Mizrahi.</p>
 				</div>
 				<div class="left imagen">
 					<img src="image/quienes_somos/quienes_somos.png" />
@@ -267,7 +267,7 @@ if(!empty($_GET["path"])){
 					<div class="faq_top"></div>
 					<div class="consulta">
 						<h3>Detalle de compra</h3>
-						<p>Para comprar por mayor Ud. puede acercarse a nuestro showroom de la calle Neuquén 2788 (Flores). Tel.: 46376203 o 46114762. o bien realizar el pedido a través de nuestro sitio <a href="http://www.mimpi.com.ar" target="_blank">www.mimpi.com.ar</a></p>
+						<p>Para comprar por mayor Ud. puede acercarse a nuestro showroom de la calle Neuquén 2788 (Flores). Tel.: 46376203 o 46114762. o bien realizar el pedido a través de nuestro sitio <a href="http://www.lionelmizrahi.com.ar" target="_blank">www.lionelmizrahi.com.ar</a></p>
 						<p>COMPRA MINIMA $4000. A partir de $8000 desc. 20%</p>
 					</div>
 					<div class="consulta">
@@ -281,7 +281,7 @@ if(!empty($_GET["path"])){
 					<div class="consulta">
 						<h3>INFO Y VENTAS</h3>
 						<p>(011) 4611-4762 o 4637-6203</p>
-						<p>ventas@mimpi.com.ar</p>
+						<p>ventas@lionelmizrahi.com.ar</p>
 					</div>
 					<div class="faq_bottom"></div>
 					<div class="talles">
@@ -330,7 +330,7 @@ if(!empty($_GET["path"])){
 						<!--<a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>-->
 					</div>
 					<div class="img">
-						<a href="https://www.facebook.com/Mimpikids" target="_BLANK"><img src="image/followus.jpg" /></a>
+						<a href="https://www.facebook.com/Lionel Mizrahikids" target="_BLANK"><img src="image/followus.jpg" /></a>
 					</div>
 					<div class="separador-triangulos"></div>
 					<div class="separador-corazon"></div>
@@ -396,8 +396,8 @@ if(!empty($_GET["path"])){
 					<h4>MIMPI</h4>
 					<h4>Por consultas o información:</h4>
 					<div class="contact-header">					
-						<h4><a href="http://www.mimpi.com.ar">www.mimpi.com.ar</a></h4>
-						<h4>ventas@mimpi.com.ar</h4>
+						<h4><a href="http://www.lionelmizrahi.com.ar">www.lionelmizrahi.com.ar</a></h4>
+						<h4>ventas@lionelmizrahi.com.ar</h4>
 					</div>	
 					<div class="contact-seccion">
 						<h4>Horario de atención</h4>

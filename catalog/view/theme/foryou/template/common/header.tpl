@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html dir="<?php echo $direction; ?>" lang="<?php echo $lang; ?>">
 <head>
-<meta name="description" content="Mimpi es una empresa familiar con una trayectoria de mas de 30 años en el rubro de indumentaria para chicos. Nuetro desafio es crear Ropa Divertida para Chicos." />
-<meta name="keywords" content="ropa para chicos, ropa para niños, ropa para chicos por mayor, ropa para bebes, articulos para bebe, ropa por mayor para bebes, ropa para nenes, ropa para nenas, Mimpi " />
-<meta name="author" content="Mimpi" />
+<meta name="description" content="Lionel Mizrahi es una empresa familiar con una trayectoria de mas de 30 años en el rubro de indumentaria para chicos. Nuetro desafio es crear Ropa Divertida para Chicos." />
+<meta name="keywords" content="ropa para chicos, ropa para niños, ropa para chicos por mayor, ropa para bebes, articulos para bebe, ropa por mayor para bebes, ropa para nenes, ropa para nenas, Lionel Mizrahi " />
+<meta name="author" content="Lionel Mizrahi" />
 <meta charset="UTF-8" />
 <title><?php echo $title; ?></title>
 <base href="<?php echo $base; ?>" />
@@ -56,7 +56,7 @@ DD_belatedPNG.fix('#logo img');
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
  
-  ga('create', 'UA-47695213-1', 'mimpi.com.ar');
+  ga('create', 'UA-47695213-1', 'lionelmizrahi.com.ar');
   ga('send', 'pageview');
  
 </script>
@@ -193,7 +193,7 @@ DD_belatedPNG.fix('#logo img');
   </ul>
   <ul id="subnav">
     <li>
-        <a href="<?php echo $lookbook; ?>&path=57_30">mini mimpi</a>
+        <a href="<?php echo $lookbook; ?>&path=57_30">mini lionelmizrahi</a>
     </li>
     <li class="dot">
         <a>.</a>

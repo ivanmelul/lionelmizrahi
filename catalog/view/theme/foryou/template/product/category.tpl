@@ -1,5 +1,5 @@
 <?php echo $header; ?>
-<!--<img class="category-header-image" alt="Mimpi" src="image/coleccion/banner.jpg" width="100%" />-->
+<!--<img class="category-header-image" alt="Lionel Mizrahi" src="image/coleccion/banner.jpg" width="100%" />-->
 <?php echo $column_left; ?><?php echo $column_right; ?>
 <div id="content" style="min-height: 590px;"><?php echo $content_top; ?>
 	

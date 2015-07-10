@@ -28,13 +28,13 @@
                 <td style="padding-bottom: 15px;">
                 	<ul class="rslides centered-btns">
 	                	<li>
-	                		<a href="<?php echo $this->url->link('product/category');?>"><img src="image/banner-mimpi.png" /></a>
+	                		<a href="<?php echo $this->url->link('product/category');?>"><img src="image/banner-lionelmizrahi.png" /></a>
 	                	</li>
 						<li>
-							<img src="image/banner-mimpi-1.png" />
+							<img src="image/banner-lionelmizrahi-1.png" />
 						</li>
 						<li>
-							<img src="image/banner-mimpi2.png" />
+							<img src="image/banner-lionelmizrahi2.png" />
 						</li>
 					</ul>
 					<a href="#" class="centered-btns_nav centered-btns1_nav prev">Previous</a>

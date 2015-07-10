@@ -37,7 +37,7 @@ $_['text_address_new']               = 'Quiero usar una nueva dirección de env&
 $_['text_address_existing']          = 'Quiero usar una dirección de facturación existente';
 
 
-$_['text_foryou']               	 = 'Mimpi';
+$_['text_foryou']               	 = 'Lionel Mizrahi';
 $_['text_audaz']          			 = ' - ';
 
 

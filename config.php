@@ -1,24 +1,27 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://www.mimpi.com.ar/');
-define('HTTP_IMAGE', 'http://www.mimpi.com.ar/image/');
-define('HTTP_ADMIN', 'http://www.mimpi.com.ar/admin/');
+$url = 'http://www.lionelmizrahi.com.ar/';
+$directorioRaiz = '/home/lionelmizrahi/lionelmizrahi.com.ar/';
+
+define('HTTP_SERVER', $url);
+define('HTTP_IMAGE', $url.'image/');
+define('HTTP_ADMIN', $url.'admin/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://www.mimpi.com.ar/');
-define('HTTPS_IMAGE', 'http://www.mimpi.com.ar/image/');
+define('HTTPS_SERVER', $url);
+define('HTTPS_IMAGE', $url.'image/');
 
 // DIR
-define('DIR_APPLICATION', '/home/mimpi_ftp/mimpi.com.ar/catalog/');
-define('DIR_SYSTEM', '/home/mimpi_ftp/mimpi.com.ar/system/');
-define('DIR_DATABASE', '/home/mimpi_ftp/mimpi.com.ar/system/database/');
-define('DIR_LANGUAGE', '/home/mimpi_ftp/mimpi.com.ar/catalog/language/');
-define('DIR_TEMPLATE', '/home/mimpi_ftp/mimpi.com.ar/catalog/view/theme/');
-define('DIR_CONFIG', '/home/mimpi_ftp/mimpi.com.ar/system/config/');
-define('DIR_IMAGE', '/home/mimpi_ftp/mimpi.com.ar/image/');
-define('DIR_CACHE', '/home/mimpi_ftp/mimpi.com.ar/system/cache/');
-define('DIR_DOWNLOAD', '/home/mimpi_ftp/mimpi.com.ar/download/');
-define('DIR_LOGS', '/home/mimpi_ftp/mimpi.com.ar/system/logs/');
+define('DIR_APPLICATION', $directorioRaiz.'catalog/');
+define('DIR_SYSTEM', $directorioRaiz.'system/');
+define('DIR_DATABASE', $directorioRaiz.'system/database/');
+define('DIR_LANGUAGE', $directorioRaiz.'catalog/language/');
+define('DIR_TEMPLATE', $directorioRaiz.'catalog/view/theme/');
+define('DIR_CONFIG', $directorioRaiz.'system/config/');
+define('DIR_IMAGE', $directorioRaiz.'image/');
+define('DIR_CACHE', $directorioRaiz.'system/cache/');
+define('DIR_DOWNLOAD', $directorioRaiz.'download/');
+define('DIR_LOGS', $directorioRaiz.'system/logs/');
 
 //Custom
 define('SALE_CATEGORY_ID', '76');
@@ -27,9 +30,10 @@ define('SIZE_ATTRIBUTE_GROUP_ID', '7');
 
 // DB
 define('DB_DRIVER', 'mysql');
-define('DB_HOSTNAME', 'mysql.lomatsa.com.ar');
-define('DB_USERNAME', 'mimpi_usr');
-define('DB_PASSWORD', 'mimpi_pass');
-define('DB_DATABASE', 'mimpi_db');
+define('DB_HOSTNAME', 'mysql.lionelmizrahi.com.ar');
+define('DB_USERNAME', 'lionelmizrahi');
+define('DB_PASSWORD', 'lionelmizrahi_pass');
+define('DB_DATABASE', 'lionelmizrahi');
 define('DB_PREFIX', '');
 ?>
+

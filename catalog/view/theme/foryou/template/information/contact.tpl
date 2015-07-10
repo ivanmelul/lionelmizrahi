@@ -47,8 +47,8 @@
 					<h4>MIMPI</h4>
 					<h4>Por consultas o información:</h4>
 					<div class="contact-header">					
-						<h4><a href="http://www.mimpi.com.ar">www.mimpi.com.ar</a></h4>
-						<h4>ventas@mimpi.com.ar</h4>
+						<h4><a href="http://www.lionelmizrahi.com.ar">www.lionelmizrahi.com.ar</a></h4>
+						<h4>ventas@lionelmizrahi.com.ar</h4>
 					</div>	
 					<div class="contact-seccion">
 						<h4>Horario de atención</h4>

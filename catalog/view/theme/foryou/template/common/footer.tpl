@@ -68,14 +68,14 @@
 			<div class="separador"></div>
 			<span class="datos">Horario de atenci&oacute;n 9:00 a 18:00hs</span>
 			<span class="datos">Atenci&oacute;n al cliente 4637-6203</span>
-			<span class="datos">ventas@mimpi.com.ar</span>
+			<span class="datos">ventas@lionelmizrahi.com.ar</span>
 		</div>
 		<div class="follow left">
 			<h3>Seguinos</h3>
 			<div class="separador"></div>
 			<div style="width: 84px; margin: 0 auto;">
-				<a href="https://www.facebook.com/Mimpikids" target="_BLANK"><span class="fb"></span></a>
-				<a href="http://instagram.com/mimpikids" target="_BLANK"><span class="instagram"></span></a>
+				<a href="https://www.facebook.com/Lionel Mizrahikids" target="_BLANK"><span class="fb"></span></a>
+				<a href="http://instagram.com/lionelmizrahikids" target="_BLANK"><span class="instagram"></span></a>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -85,7 +85,7 @@
 
 	<div id="footer_down" <?php if(strrpos($_SERVER["REQUEST_URI"], "common/home" ) > 0 || strrpos($_SERVER["REQUEST_URI"], "route=" ) === false){echo "style='display:none'";}?>>
 		<div class="left">
-			<h4>mimpi</h4>
+			<h4>lionelmizrahi</h4>
 			<span class="info">Una empresa familiar con una trayectoria de m&aacute;s de 30 a&ntilde;os dedicada a la indumentaria para chicos.</span>
 			<ul>
 				<li><a href="<?php echo $this->url->link('information/request&path=3');?>">C&oacute;mo comprar</a></li>
@@ -98,7 +98,7 @@
 		</div>
 		<div class="left">
 			<h4>colecci&oacute;n '15</h4>
-			<span class="info high-size">Mimpi Summer 2015</span>
+			<span class="info high-size">Lionel Mizrahi Summer 2015</span>
 			<div>
 				<ul>
 					<li><a href="<?php echo $this->url->link('product/category');?>">Nuestros Productos</a></li>
@@ -135,7 +135,7 @@
 		<div class="clear"></div>
 	</div>
 	<div class="copyright">
-		<h4>Todos los derechos reservados Mimpi 2014.</h4>
+		<h4>Todos los derechos reservados Lionel Mizrahi 2014.</h4>
 		<a href="http://www.whif.com.ar/" target="_BLANK"><span class="whif-logo"></span></a>
 	</div>
 
